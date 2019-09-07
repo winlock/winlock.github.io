@@ -20,6 +20,7 @@ description: Only in silence the word.
 
 # List of links in the navigation bar
 navbar-links:
+  Tags: "tags"
   About Me: "aboutme"
   Resources:
     - Just My Socks: "https://justmysocks.net/members/aff.php?aff=4304"
